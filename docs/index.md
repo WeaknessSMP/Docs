@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "WeaknessSMP Docs"
   text: "Documentation for WeaknessSMP"
-  tagline: My great project tagline
+  tagline: It will contain lots of stuff soon...
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: WeaknessSMP Rules
+      link: /rules
     - theme: alt
       text: API Examples
       link: /api-examples
