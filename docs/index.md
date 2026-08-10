@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "WeaknessSMP"
-  text: "The rules for WeaknessSMP"
+  name: "WeaknessSMP Docs"
+  text: "Documentation for WeaknessSMP"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📜
+    title: Rules List
+    details: Our simple but effective rules list.
+  - title: More stuff to come!
+    icon: 👀
+    details: I'm adding lots more stuff to the documentation, stay tuned!
 ---
 
