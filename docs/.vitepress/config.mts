@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "WeaknessSMP",
+  base: '/Rules/', // Capital 'R' matching your repo name!
   description: "The rules for WeaknessSMP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
